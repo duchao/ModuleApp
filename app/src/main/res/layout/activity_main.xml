@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.test.moduleapp.main.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="App MainActivity"
+        android:textSize="30sp"/>
+    <Button
+        android:id="@+id/app_main_jump_button"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="jump to login"
+        android:textSize="30sp"/>
+</LinearLayout>

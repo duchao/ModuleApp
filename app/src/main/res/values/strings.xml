@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ModuleApp</string>
+    <string name="global_scheme">module</string>
+</resources>
